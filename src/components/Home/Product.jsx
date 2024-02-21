@@ -36,7 +36,7 @@ const Product = () => {
               alt="Product"
             />
             <ul
-              className="w-full h-36 bg-gray-100 absolute group-hover:bottom-0 duration-500
+              className="w-full h-36 hover:bg-gray-100 absolute group-hover:bottom-0 duration-500
               bottom-[-157px] flex flex-col items-end justify-center gap-2 font-titleFont px-2 border-1 border-r"
             >
               <li className="productLi">
