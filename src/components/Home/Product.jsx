@@ -37,7 +37,7 @@ const Product = () => {
             />
             <ul
               className="w-full h-36 bg-gray-100 absolute group-hover:bottom-0 duration-500
-              bottom-[-170px] flex flex-col items-end justify-center gap-2 font-titleFont px-2 border-1 border-r"
+              bottom-[-157px] flex flex-col items-end justify-center gap-2 font-titleFont px-2 border-1 border-r"
             >
               <li className="productLi">
                 Compare{" "}
